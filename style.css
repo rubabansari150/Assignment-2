@@ -1,0 +1,39 @@
+/* Assignment 1 css */
+
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table {
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
+
+td {
+    border: 1px solid black;
+    background-color: rgb(123, 212, 208);
+}
+
+/* Assignment 2 css */
+
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table {
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+
+}
+
+td {
+    border: 1px solid black;
+    background-color: rgb(123, 212, 208);
+}
